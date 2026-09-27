@@ -15,10 +15,26 @@
 - [ADR-001](docs/adr/ADR-001-delivery-model.md)
 - [Атау келісімі](docs/conventions.md)
 
-# Story Map
+# Requirements — Shop-Inventory
 
-![Story Map](story-map.png)
+## Құжаттар
+
+| Құжат | Сипаттама |
+|---|---|
+| [nfr.md](nfr.md) | ФЕТ спецификациясы — 14 талап |
+| [story-map.png](story-map.png) | Story Map — MVP срезі белгіленген |
+| [backlog.md](backlog.md) | Бэклог — 18 тарихша |
+
+## MVP шекарасы
 
 - **MVP:** 13 тарихша
-- **V2:** 5 тарихша
-- **V3:** 1 тарихша
+- **Версия 2:** 5 тарихша
+- **Версия 3:** 1 тарихша
+
+## Story Map хребеті
+
+1. Тауарды тіркеу
+2. Сатуды жүргізу
+3. Қалдықты бақылау
+4. Есеп алу
+5. Кіру / рөлдер
