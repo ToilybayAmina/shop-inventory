@@ -14,3 +14,11 @@
 ## Құжаттама
 - [ADR-001](docs/adr/ADR-001-delivery-model.md)
 - [Атау келісімі](docs/conventions.md)
+
+# Story Map
+
+![Story Map](story-map.png)
+
+- **MVP:** 13 тарихша
+- **V2:** 5 тарихша
+- **V3:** 1 тарихша
